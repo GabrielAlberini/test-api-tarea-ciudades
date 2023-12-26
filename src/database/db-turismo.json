@@ -1,0 +1,94 @@
+{
+    "provincias": [
+      {
+        "nombre": "Buenos Aires",
+        "capital": "La Plata",
+        "habitantes": 15402439,
+        "superficie_km2": 307571,
+        "lugares_turisticos": [
+          {
+            "nombre": "Ciudad Autónoma de Buenos Aires",
+            "tipo": "Ciudad",
+            "atracciones": ["Obelisco", "Teatro Colón", "Casa Rosada"]
+          },
+          {
+            "nombre": "Mar del Plata",
+            "tipo": "Ciudad Costera",
+            "atracciones": ["Playa Bristol", "Casino Central", "Torre Tanque"]
+          }
+        ]
+      },
+      {
+        "nombre": "Córdoba",
+        "capital": "Córdoba",
+        "habitantes": 3567654,
+        "superficie_km2": 165321,
+        "lugares_turisticos": [
+          {
+            "nombre": "Sierras de las Quijadas",
+            "tipo": "Reserva Natural",
+            "atracciones": ["Cerro de la Cruz", "Valle de la Luna"]
+          },
+          {
+            "nombre": "Villa General Belgrano",
+            "tipo": "Pueblo Alpino",
+            "atracciones": ["Oktoberfest", "Río Los Reartes"]
+          }
+        ]
+      },
+      {
+        "nombre": "Santa Fe",
+        "capital": "Santa Fe",
+        "habitantes": 3397532,
+        "superficie_km2": 133007,
+        "lugares_turisticos": [
+          {
+            "nombre": "Parque Nacional El Palmar",
+            "tipo": "Parque Nacional",
+            "atracciones": ["Palmares", "Senderismo"]
+          },
+          {
+            "nombre": "Rosario",
+            "tipo": "Ciudad",
+            "atracciones": ["Monumento a la Bandera", "Parque Independencia"]
+          }
+        ]
+      },
+      {
+        "nombre": "Mendoza",
+        "capital": "Mendoza",
+        "habitantes": 1738929,
+        "superficie_km2": 148827,
+        "lugares_turisticos": [
+          {
+            "nombre": "Parque Provincial Aconcagua",
+            "tipo": "Parque Provincial",
+            "atracciones": ["Montaña Aconcagua", "Trekking"]
+          },
+          {
+            "nombre": "Maipú",
+            "tipo": "Región Vitivinícola",
+            "atracciones": ["Bodegas", "Ruta del Vino"]
+          }
+        ]
+      },
+      {
+        "nombre": "Salta",
+        "capital": "Salta",
+        "habitantes": 1214441,
+        "superficie_km2": 155488,
+        "lugares_turisticos": [
+          {
+            "nombre": "Quebrada de Humahuaca",
+            "tipo": "Patrimonio de la Humanidad",
+            "atracciones": ["Purmamarca", "Cerro de los Siete Colores"]
+          },
+          {
+            "nombre": "Salta Capital",
+            "tipo": "Ciudad Colonial",
+            "atracciones": ["Catedral de Salta", "Cerro San Bernardo"]
+          }
+        ]
+      }
+    ]
+  }

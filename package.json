@@ -1,0 +1,21 @@
+{
+  "name": "api-clase49",
+  "version": "1.0.0",
+  "description": "app-wheater-ada",
+  "main": "./src/index.ts",
+  "scripts": {
+    "dev": "ts-node ./src/index.ts",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonfile": "^6.1.0"
+  },
+  "devDependencies": {
+    "@types/jsonfile": "^6.1.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
